@@ -1,0 +1,6 @@
+pluginname=Website Integration
+pluginclassname=WebsiteIntegrationPlugin
+origin=Your Name
+version=0.1
+description=Integrates an external website into Stud.IP
+studipmin=4.0
